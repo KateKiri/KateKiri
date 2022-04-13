@@ -1,0 +1,20 @@
+body {
+  color: #555
+}
+
+.tittle {
+color: darkblue
+}
+
+.contact {
+  background: lightcyan;
+}
+
+.skills {
+  background: lightsalmon;
+}
+
+img {
+  width: 200px;
+  border-radius: 20%;
+}
